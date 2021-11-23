@@ -1,4 +1,4 @@
-module avenuesec/go-restful-swagger12
+module github.com/avenuesec/go-restful-swagger12
 
 go 1.17
 
